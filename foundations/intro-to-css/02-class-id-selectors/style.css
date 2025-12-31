@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd{
+    background-color: #eb224a7b;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+#num2{
+    color: blue;
+    font-size: 36px;
+}
+
+.odd.p3{
+    font-size: 24px;
+}
+
+#num4{
+    background-color: rgba(66, 219, 66, 0.737);
+    font-size: 24px;
+    font-weight: bold;
+}
